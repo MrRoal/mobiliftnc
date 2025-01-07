@@ -1,0 +1,40 @@
+[27-Apr-2022 19:59:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/index.php on line 17
+[28-May-2022 10:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[28-May-2022 10:06:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/page.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/page.php on line 12
+[20-Aug-2022 08:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/index.php on line 17
+[25-Aug-2022 23:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[03-Sep-2022 04:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[03-Sep-2022 04:16:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[14-Sep-2022 21:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[22-Sep-2022 13:05:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/archive.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/archive.php on line 12
+[22-Apr-2023 03:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qcridab3qwvj/public_html/wp-content/themes/twentynineteen/404.php on line 12
